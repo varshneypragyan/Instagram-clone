@@ -1,0 +1,26 @@
+{
+  "name": "instagram-clone",
+  "version": "1.0.0",
+  "description": "Instagram clone using MERN Stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varshneypragyan/Instagram-clone.git"
+  },
+  "author": "Pragyan Varshney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varshneypragyan/Instagram-clone/issues"
+  },
+  "homepage": "https://github.com/varshneypragyan/Instagram-clone#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "nodemon": "^2.0.4"
+  }
+}
