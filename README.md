@@ -1,2 +1,2 @@
 # Instagram-clone
-Instagram clone using MERN stack
+Instagram clone using MERN {-React} stack
